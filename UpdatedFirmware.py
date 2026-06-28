@@ -1,7 +1,7 @@
 # Updatedfirmware.py
 
 def main():
-    print("Hello From updated firmware File")
+    print("Hello From updated firmware File 2 ")
 
 if __name__ == "__main__":
     main()
